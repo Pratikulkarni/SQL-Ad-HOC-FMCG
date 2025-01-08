@@ -10,9 +10,9 @@ I am provided with a dataset containing multiple tables related to an organizati
 
 # <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=zeuUPoSqsDd3&format=png&color=000000" width="35" /></a>  Requests:
 
-- As a product owner, I want to generate a report of individual product sales (aggregated on a monthly basis at the product level) for Amazon India customers for FY=2021 so that I can track individual product sales.
+- As a Data Analyst, I want to generate a report of individual product sales (aggregated on a monthly basis at the product level) for Amazon India customers for FY=2021 so that I can track individual product sales.
   
-- As a product owner, I need an aggregate monthly gross sales report for Croma India customer so that I can track how much sales this particular customer is generating for AtliQ and manage our relationships accordingly.
+- As a Data Analyst, I need an aggregate monthly gross sales report for Croma India customer so that I can track how much sales this particular customer is generating for AtliQ and manage our relationships accordingly.
 
 - Create a stored procedure for monthly gross sales reports so that I don't have to manually modify the query every time so that I generate this report without involving the data analytics team.
 - A stored procedure that can determine the market badge based on the following logic <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=JBsFFuVDTkKw&format=png&color=000000" width="35" /></a> If total sold quantity > 5 million that market is considered Gold else it is Silver.
